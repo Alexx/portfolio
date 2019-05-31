@@ -1,6 +1,12 @@
 body {
   background-color: #dbdbdb;
-  font-family: Verdana, Geneva, sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+div h3 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  font-size: 28px;
 }
 
 .container {
