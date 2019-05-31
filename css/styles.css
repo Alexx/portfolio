@@ -17,9 +17,19 @@ strong {
   background-color: #f2f2f2;
 }
 
-.portfolio-image {
+.portfolio-header h3 {
+  margin-top: 0px;
+  text-align: center;
+}
+
+.portfolio-header img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 16px;
   height: 200px;
   width: 200px;
+  border-radius: 50%;
 }
 
 .panel > .panel-heading {
