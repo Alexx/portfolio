@@ -44,6 +44,10 @@ li {
   background-color: #fff;
 }
 
+.about-img {
+  float: right;
+}
+
 .portfolio-header h3 {
   margin-top: 0px;
   text-align: center;
@@ -56,11 +60,20 @@ li {
   margin-top: 32px;
   height: 200px;
   width: 200px;
-  border-radius: 50%;
+  /* border-radius: 50%; */
 }
 
-.panel-body img {
+.interest-left img {
   float:left;
+  margin: 10px;
+  width: 200px;
+  height: 150px;
+  border-radius: 25%;
+  object-fit: cover;
+}
+
+.interest-right img {
+  float:right;
   margin: 10px;
   width: 200px;
   height: 150px;
