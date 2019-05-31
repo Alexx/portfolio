@@ -3,7 +3,17 @@ body {
   font-family: Verdana, Geneva, sans-serif;
 }
 
+.container {
+  background-color: #f2f2f2;
+}
+
 .portfolio-image {
   height: 200px;
   width: 200px;
+}
+
+.panel > .panel-heading {
+  background-image: none;
+  background-color: #1675d1;
+  color: #fff;
 }
