@@ -24,6 +24,9 @@ strong {
 li {
   font-size: 16px;
 }
+footer {
+  text-align: center;
+}
 
 .bootstrap {
   color: #610ba8;
@@ -49,7 +52,6 @@ li {
 }
 
 .portfolio-header h3 {
-  margin-top: 0px;
   text-align: center;
 }
 
@@ -57,10 +59,8 @@ li {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 32px;
   height: 200px;
   width: 200px;
-  /* border-radius: 50%; */
 }
 
 .interest-left img {
