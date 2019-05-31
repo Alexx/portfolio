@@ -28,6 +28,10 @@ footer {
   text-align: center;
 }
 
+.jumbotron {
+  background-color: #EEEEEE;
+}
+
 .bootstrap {
   color: #610ba8;
   font-weight: bold;
@@ -56,11 +60,13 @@ footer {
 }
 
 .portfolio-header img {
+  background-color: #1675d1;
   display: block;
   margin-left: auto;
   margin-right: auto;
   height: 200px;
   width: 200px;
+  border-radius: 50%;
 }
 
 .interest-left img {
