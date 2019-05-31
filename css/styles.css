@@ -2,3 +2,8 @@ body {
   background-color: #dbdbdb;
   font-family: Verdana, Geneva, sans-serif;
 }
+
+.portfolio-image {
+  height: 200px;
+  width: 200px;
+}
