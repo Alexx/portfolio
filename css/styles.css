@@ -9,6 +9,10 @@ div h3 {
   font-size: 28px;
 }
 
+strong {
+  font-weight: 700;
+}
+
 .container {
   background-color: #f2f2f2;
 }
