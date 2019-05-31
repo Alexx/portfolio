@@ -12,7 +12,7 @@ _This is a portfolio page to display Alex Siegberg's personal projects and any o
 
 This portfolio can be viewed on GitHub Pages (linked below)
 
-_[GitHub Pages](http://gh-pages.github.io/portfolio/)_
+_[GitHub Pages](http://alexx.github.io/portfolio/)_
 
 ## Licensing
 
