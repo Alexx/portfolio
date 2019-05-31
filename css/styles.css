@@ -1,5 +1,5 @@
 body {
-  background-color: #dbdbdb;
+  background-color: #EEEEEE;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -20,9 +20,23 @@ div h5 {
 strong {
   font-weight: 700;
 }
+.bootstrap {
+  color: #610ba8;
+  font-weight: bold;
+}
+
+.html5 {
+  color: #dd3b00;
+  font-weight: bold;
+}
+
+.css3 {
+  color: #008ee0;
+  font-weight: bold;
+}
 
 .container {
-  background-color: #f2f2f2;
+  background-color: #fff;
 }
 
 .portfolio-header h3 {
